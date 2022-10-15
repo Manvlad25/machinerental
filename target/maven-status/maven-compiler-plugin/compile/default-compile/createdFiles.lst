@@ -1,0 +1,15 @@
+controller\IMaquinaController.class
+servlets\PruebaServelt.class
+beans\rental.class
+servlets\ServletUsuarioPedir.class
+controller\IUsuarioController.class
+servlets\ServletUsuarioRegister.class
+controller\MaquinaController.class
+beans\maquinas.class
+servlets\ServletMaquinaListar.class
+beans\usuarios.class
+controller\UsuarioController.class
+servlets\ServletUsuarioModificar.class
+test\OperacionesBD.class
+servlets\ServletUsuarioLogin.class
+connection\DBConnection.class
